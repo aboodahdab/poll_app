@@ -1,0 +1,5 @@
+node_modules
+*.json
+backend/venv
+backend/env
+frontend/css/output.css
